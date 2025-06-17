@@ -1,7 +1,17 @@
 # Dev blog
 
+### local setup
 
-### env 
+* Install Hugo 0.147.8
+```shell
+$ git clone git@github.com:gniewomir/dev.blog.git
+$ cd dev.blog
+$ git submodule update --init
+$ hugo build
+$ hugo server
+```
+
+### reference env 
 
 ```shell
 $ lsb_release -a
