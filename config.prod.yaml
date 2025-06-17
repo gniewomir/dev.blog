@@ -13,8 +13,8 @@ pygmentsUseClasses: true
 mainsections: ["posts"]
 
 minify:
-  disableXML: true
-  minifyOutput: false
+  disableXML: false
+  minifyOutput: true
 
 pagination:
   disableAliases: false
