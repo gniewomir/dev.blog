@@ -1,5 +1,7 @@
 # Dev blog
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/97a94553-026d-40f4-8ab0-19e1619805f6/deploy-status)](https://app.netlify.com/projects/gniewomir-dev-blog/deploys)
+
 ### local setup
 
 * Install Hugo 0.147.8
@@ -34,4 +36,5 @@ hugo v0.147.8+extended+withdeploy linux/amd64 BuildDate=2025-06-07T12:59:52Z Ven
 ```
 
 ### Ref 
-https://github.com/adityatelange/hugo-PaperMod/wiki
+* https://github.com/adityatelange/hugo-PaperMod/wiki
+* https://gohugo.io/host-and-deploy/host-on-netlify/
