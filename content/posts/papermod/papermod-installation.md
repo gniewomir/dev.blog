@@ -12,6 +12,7 @@ cover:
   hiddenInList: true
 social:
   fediverse_creator: "@adityatelange@mastodon.social"
+draft: true
 ---
 
 > - **We'll be using `yml/yaml` format for all examples down below, it is recommend to use `yaml` over `toml` as it is easier to read.**
