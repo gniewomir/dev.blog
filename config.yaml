@@ -1,11 +1,11 @@
-baseURL: "https://gniewomir.com/"
+baseURL: "/"
 languageCode: "en-us"
 title: "Gniewomir Świechowski"
 theme: ["PaperMod"]
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
-buildDrafts: true
+buildDrafts: false
 buildFuture: false
 buildExpired: false
 enableEmoji: true
@@ -49,9 +49,9 @@ outputs:
     - JSON
 
 params:
-  env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  description: "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
-  author: Theme PaperMod
+  env: development # use 'production' to enable google analytics, opengraph, twitter-cards and schema.
+  description: "Personal blog of Gniewomir Świechowski - Software Engineer from Cracow, Poland writing about development, technology, and industry insights."
+  author: ["Gniewomir Świechowski"]
   # author: ["Me", "You"] # multiple authors
 
   defaultTheme: auto
@@ -84,15 +84,9 @@ params:
         url: tags
 
   homeInfoParams:
-    Title: "Dev blog"
+    Title: "Gniewomir Świechowski"
     Content: >
-      Hi, I'm full-stack software engineer based in Cracow, Poland
-      
-      - I'm most interested on how apply high-level concepts like DDD, TDD in a pragmatic way, so this is what you should expect here
-      
-      - Inspiration to start blogging (again), was the need to give some structure to my exploration of LLM-based tools 
-      
-      - If you are looking to hire, here is my [CV](https://gniewomir.github.io/)
+      Software Engineer from Cracow, Poland
 
   socialIcons:
     - name: github
