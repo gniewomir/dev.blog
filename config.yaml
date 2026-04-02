@@ -95,6 +95,9 @@ params:
     - name: facebook
       title: Facebook account
       url: "https://www.facebook.com/gniewomir.swiechowski/"
+    - name: linkedin
+      title: LinkedIn profile
+      url: "https://www.linkedin.com/in/gniewomirswiechowski/"
     - name: X
       title: Twitter profile
       url: "https://x.com/gniewomir"
