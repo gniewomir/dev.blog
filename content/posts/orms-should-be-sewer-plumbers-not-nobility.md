@@ -28,13 +28,13 @@ Your developers will avoid mirroring the domain in the database schema and code 
 
 A real example I've seen in production: a yacht modeled as a house with an engine, sails, and a home port, with all the special cases scattered across related models & code. Deep coupling created by the ORM made it impractical to model them separately. Now imagine extending that project to handle RVs. I noped out of the aforementioned project to preserve my sanity—there was no realistic way to untangle it.
 
-## 3. The REST/GraphQL Resource = Database Model Fallacy
+## 3. The API Resource = Database Model Fallacy
 
 The ORM creates a false impression that the shape of your REST/GraphQL resources should match your database models. They do—for only a short while at the start of the project. When the drift becomes visible, you are already locked-in with workarounds bolted on top in the meantime.
 
 Later, it will become obvious that nobody has thought through what data you should expose and to whom—going with the low-effort default of mapping one-to-one unless explicitly asked to do otherwise, so your public interface surface to maintain is huge. This inevitably leads to the nightmare of property-level authorization rules (instead of clean, endpoint-level rules) and leaves you with no clear vision for how to version your API.
 
-## 4. Integration Tests = Best Kind of Tests Fallacy
+## 4. Integration Tests = Best Fallacy
 
 Heavy use of ORMs pushes your test pyramid towards a pear shape at best and an inverted pyramid at worst. Even rational—not maximalist—coverage of a complex business application will require handling a lot of edge cases for multi-factor decisions. They are typically super cheap to unit test but grow more and more expensive the higher in the hierarchy they are tested.
 
@@ -56,7 +56,7 @@ We don’t live in that world—your developers will take the path of least resi
 
 Architecture choices like delegating the ORM to a subservient role in your infrastructure layer instead of the core of your domain are the most effective way of counteracting the internal rot of your product. They become the new default, as both developers and agents tend to mimic existing structures, and can be enforced by automated checks.
 
-## Context Engineering Starts with Sound Engineering
+## Show Me The Money
 
 I understand that advocating for abstraction is a voice crying in the wilderness without a spreadsheet describing profits and costs—which, when laying the foundation, will show roughly measurable costs but unclear savings. Yet, regardless of our apparent inability to measure the hidden costs of poor architectural choices upfront, at some point somebody has to ask: how come the complexity of the business domain is roughly the same, and we deliver at a similar pace, but we had to grow the engineering org by 100% in the last 5 years just to keep up? How much money does that cost? Who should own it?
 
