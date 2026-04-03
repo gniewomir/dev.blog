@@ -3,7 +3,6 @@ authors: ["Gniewomir Świechowski"]
 title: "The Dirty-dozen of Agentic AI traps"
 date: 2026-03-16
 draft: false
-weight: -1
 tags: ["AI", "LLM", "Software Engineering", "Opinion"]
 ---
 This list started as an idea for a short LinkedIn post, but ended as a summary of systemic problems that need to be addressed to make coding LLMs/AI Agents a paradigm shift in software engineering—not a dead end that creates as many problems as it solves. Perhaps this attempt to organize my own thoughts on the topic will be of some use to anyone.

@@ -4,7 +4,6 @@ title: "We're already doing stupid shit. Do we really want to do it faster with 
 date: "2026-01-04"
 tags: ["AI", "LLM", "Industry", "Culture", "Management" ]
 categories: ["Culture"]
-weight: -1
 ShowToc: true
 TocOpen: true
 draft: false

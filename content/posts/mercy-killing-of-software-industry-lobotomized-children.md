@@ -4,7 +4,6 @@ title: "The mercy killing of the software industry's lobotomized children"
 date: "2026-03-10"
 tags: ["AI", "LLM", "Industry", "Culture", "Management" ]
 categories: ["Culture"]
-weight: -1
 ShowToc: true
 TocOpen: true
 draft: false

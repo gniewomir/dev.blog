@@ -19,7 +19,7 @@ You are forced to intentionally fill the gaps in your initial intuitions—which
 
 This is the exact opposite of the cool-kids' "vibe-coding" model, which focuses on delegating not only the implementation but also most of the design to a specialized stochastic parrot—just rolling dice, seeing if by throwing more and more tokens at the wall, some of them may stick.
 
-[Matt Pocock](https://github.com/mattpocock) iterated over this skill as part of his very hands-off agenctic software development workflow. His goal was to move the responsibility for design back to the actually intelligent human with some taste, giving agents a better shot at delivering a usable implementation based on a well-groomed plan. However, I've found it works perfectly well in the more hands-on approach that I prefer.
+[Matt Pocock](https://github.com/mattpocock) iterated over this skill as part of his very hands-off agentic software development workflow. His goal was to move the responsibility for design back to the actually intelligent human with some taste, giving agents a better shot at delivering a usable implementation based on a well-groomed plan. However, I've found it works perfectly well in the more hands-on approach that I prefer.
 
 Answering twenty-something questions in a row can be a pretty intense mental exercise, but it has already saved me multiple times from either rewriting bits of my project from scratch or burning huge amounts of tokens on useless iterations.
 

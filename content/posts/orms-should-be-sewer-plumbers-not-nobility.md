@@ -4,7 +4,6 @@ title: "ORMs should be sewer plumbers - not nobility"
 date: "2026-04-02"
 tags: ["Architecture", "Engineering", "AI", "Good Practices", "Domain Driven Design"]
 categories: ["Architecture"]
-weight: -1
 ShowToc: true
 TocOpen: true
 draft: false
