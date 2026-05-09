@@ -10,7 +10,7 @@ ShowToc: false
 
 There is a huge problem I have not seen discussed in the context of AI. Documentation—just like code—can rot when subjected to unrestricted AI use, and this is not something that can be easily, if at all, fixed.
 
-Missing, misleading or outdated documentation forces rushed explorations focused on how, not why—which tightens competition for resources between research, design, and implementation. Good documentation warns about dead ends and explains constraints, allowing teams to reach better decisions faster. Yet, having a good knowledge base was hard before AI, and I'm convinced that it will get even harder with it. 
+Missing, misleading or outdated documentation forces rushed explorations focused on how, not why—which tightens competition for resources between research, design, and implementation. Good documentation warns about dead ends and explains constraints, allowing teams to reach better decisions faster. Yet, having a good knowledge base was hard before AI, and I'm convinced that it will get even harder with it.
 
 The pre-AI baseline was already bad:
 
@@ -24,7 +24,7 @@ At first glance, AI should improve our outcomes:
 
 1. You can explore the codebase with AI, which lowers the friction of creating accurate documentation.
 
-2. You can quickly turn a draft into a professional-looking document - skipping writer’s block and jumping straight to iterating on it.
+2. You can quickly turn a draft into a professional-looking document—skipping writer’s block and jumping straight to iterating on it.
 
 3. You can put smart guardrails in place, cross-referencing existing documents with new ones.
 
