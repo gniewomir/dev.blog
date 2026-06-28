@@ -20,4 +20,6 @@ So far, the playbook was to invest and capitalize on the fact that serving new c
 
 AI is different, as it requires extreme CapEx and high OpEx per user. 
 
-So far, private investors were footing the bill, making it a good deal for consumers. We will learn if this will hold only after public markets cast their judgment over new kids on the block balance sheets. But while AI is here to stay, historically, being invested in the first wave of new technology adoption was very rarely a good deal for public market participants. 
+So far, private investors were footing the bill, making it a good deal for consumers. We will learn if this will hold only after public markets cast their judgment over new kids on the block balance sheets. 
+
+But while AI is here to stay, historically, being invested in the first wave of new technology adoption was very rarely a good deal for public market participants. 
