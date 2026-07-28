@@ -13,7 +13,7 @@ I’m starting to think about “grilling” (in the context of [Matt Pocock’s
 
 The definition of terms is your core pre-code-generation guardrail. The “world model” of LLMs is language itself, so it makes them pretty good at spotting language-, vocabulary-, and definition-level contradictions. Often better than we do, if you are not blessed with a tiny bit of autistic traits.
 
-When you cannot push a square block (term term definition) into a round opening (different term definition/requirement), the design process turns into updating the vocabulary until terms, definitions, and their relations do not contradict one another.
+When you cannot push a square block (term definition) into a round opening (different term definition/requirement), the design process turns into updating the vocabulary until terms, definitions, and their relations do not contradict one another.
 
 When you are done, your intent is unambiguous to the implementing agent because your ask lives in your new vocabulary more than in your sloppy prompts.
 
