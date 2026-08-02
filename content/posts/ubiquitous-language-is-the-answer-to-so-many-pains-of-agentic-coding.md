@@ -2,7 +2,7 @@
 authors: ["Gniewomir Świechowski"]
 title: "Ubiquitous language is the answer to so many pains of agentic coding"
 date: "2026-08-02"
-tags: ["AI", "LLM", "Software Engineering", "Opinion"]
+tags: ["AI", "LLM", "Software Engineering", "Opinion", "DDD", "Ubiquitous language", "Domain Driven Design", "Agentic coding"]
 categories: ["AI", "Software Engineering"]
 weight: -1
 ShowToc: false

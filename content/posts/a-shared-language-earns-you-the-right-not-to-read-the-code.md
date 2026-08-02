@@ -2,7 +2,7 @@
 authors: ["Gniewomir Świechowski"]
 title: "A shared language earns you the right not to read the code"
 date: "2026-07-27"
-tags: ["AI", "LLM", "Software Engineering", "Opinion"]
+tags: ["AI", "LLM", "Software Engineering", "Opinion", "DDD", "Ubiquitous language", "Domain Driven Design", "Agentic coding"]
 categories: ["AI", "Software Engineering"]
 weight: -1
 ShowToc: true
